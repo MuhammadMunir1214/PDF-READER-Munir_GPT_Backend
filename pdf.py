@@ -1,5 +1,4 @@
 import os
-import openai
 import pickle
 import streamlit as st
 from PyPDF2 import PdfReader
@@ -27,7 +26,6 @@ with st.sidebar:
         'Extension of Munir-GPT')
 
 
-load_dotenv()
 API_KEY = st.secrets["OPENAI_API_KEY"]
 
 
