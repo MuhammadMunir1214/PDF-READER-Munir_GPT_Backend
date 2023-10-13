@@ -10,7 +10,7 @@ This is the AI PDF-Reader for my Munir-GPT website. The backend was coded in Pyt
 # Technologies
 -**PyPDF2**   
 -**Axios.js**   
--**LangChain**
+-**LangChain**   
+-**Vecter Stores**    
 -**Pickle(storing and retrieving data)**   
--**Vecter Stores**  
 
